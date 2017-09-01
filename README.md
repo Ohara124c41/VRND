@@ -1,15 +1,15 @@
 # VRND-Project Specifications: Design an Apartment
+#
 ### Starter Project, Instruction and Rubric provided by Udacity
+#
 ### Developer - Christopher Ohara
 #
-#
-#
+
 ## Tasks
+#
 ###### (1) Create a modern apartment emphasizing the usage of lighting (baked), objects (placement, transformation, scaling, rotation) and being deployable to a smartphone for demonstration.
 #
 ###### (2) Implicit criteria are that the project is aesthetically appealing.
-#
-#
 #
 ### Platform and Build Specifications
 * Platform: Android 7.0, Samsung Galaxy S7
@@ -18,13 +18,14 @@
 * Java JDK: jdk1.8.0_144
 * Audio File courtesy of Sound Bible
 
-
 ## Screenshots  
+#
 ![app screenshot](/Screenshot/screenshot01.png)
 ![app screenshot](/Screenshot/screenshot02.png)
 
 
 ## Installation:
+#
 * Download (Clone) Project and unzip 
 * In the Starter Project Folder, open the Unity Scene
 * Import any desired Assets and Packages
@@ -42,8 +43,10 @@
 * Go to File/Build Settings; select "Build and Run"
 
 # TODO Criteria & Specifications:
+#
 
 ## Models:
+#
 ##### Overall Layout
 
 * The overall placement of 3D objects in the scene is reasonable and is visually pleasing. All materials should be assigned, objects should NOT intersect with each other, and objects should NOT be levitating without a reason.
@@ -57,15 +60,14 @@
 * All models are marked as Static (except the globe)
 
 ## Google VR:
-
+#
 ##### VR Functionality
 
 * When you run the scene, the Cardboard stereoscopic view appears and functions correctly
-#
-#
+
 
 ## Deployment:
-
+#
 ##### Player Settings
 #
 * Verify that your Player Settings are correct for your device.
@@ -98,10 +100,9 @@
 
 * Take a screenshot of your phone screen with the app they built running. Ideally, it shows a nice wide view of the apartment.
 
-#
-#
-## Lighting:
 
+## Lighting:
+#
 ##### Lights
 
 * There are several spotlights and/or area lights
@@ -123,10 +124,9 @@
 * You’ll probably want to activate “Soft Shadows” on each light (so the baked lighting produces nice shadows)
 * If you notice lighting artifacts, then switch to uncompressed lightmap. If your app does not perform well any more, you may revert to compressed lightmaps, but you must include in your submission notes what you tried and what happened.
 #
+
+## Globe:
 #
-
-# Globe:
-
 
 ##### Globe Exists
 
@@ -139,8 +139,6 @@
 ##### Globe is Textured
  * The globe should have a texture map of a planet. We provide a texture map of the Earth, but feel free to use your own texture.
 
-#
-#
 
 ## Appendment:
 #
