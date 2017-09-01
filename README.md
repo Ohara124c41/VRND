@@ -16,6 +16,8 @@
 * Unity Version: Unity 5.5.1f
 * Google VR SDK for Unity: version 1.0; gvr-unity-sdk-1.0.3
 * Java JDK: jdk1.8.0_144
+* Audio File courtesy of Sound Bible
+
 
 ## Screenshots  
 ![app screenshot](/Screenshot/screenshot01.png)
