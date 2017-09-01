@@ -1,17 +1,17 @@
 # VRND-Project Specifications: Design an Apartment
-#
+
 ### Starter Project, Instruction and Rubric provided by Udacity
 #
 ### Developer - Christopher Ohara
 #
 
 ## Tasks
-#
+
 ###### (1) Create a modern apartment emphasizing the usage of lighting (baked), objects (placement, transformation, scaling, rotation) and being deployable to a smartphone for demonstration.
 #
 ###### (2) Implicit criteria are that the project is aesthetically appealing.
 #
-### Platform and Build Specifications
+## Platform and Build Specifications
 * Platform: Android 7.0, Samsung Galaxy S7
 * Unity Version: Unity 5.5.1f
 * Google VR SDK for Unity: version 1.0; gvr-unity-sdk-1.0.3
@@ -19,13 +19,13 @@
 * Audio File courtesy of Sound Bible
 
 ## Screenshots  
-#
+
 ![app screenshot](/Screenshot/screenshot01.png)
 ![app screenshot](/Screenshot/screenshot02.png)
 
 
 ## Installation:
-#
+
 * Download (Clone) Project and unzip 
 * In the Starter Project Folder, open the Unity Scene
 * Import any desired Assets and Packages
@@ -43,10 +43,10 @@
 * Go to File/Build Settings; select "Build and Run"
 
 # TODO Criteria & Specifications:
-#
+
 
 ## Models:
-#
+
 ##### Overall Layout
 
 * The overall placement of 3D objects in the scene is reasonable and is visually pleasing. All materials should be assigned, objects should NOT intersect with each other, and objects should NOT be levitating without a reason.
@@ -60,16 +60,15 @@
 * All models are marked as Static (except the globe)
 
 ## Google VR:
-#
+
 ##### VR Functionality
 
 * When you run the scene, the Cardboard stereoscopic view appears and functions correctly
 
 
 ## Deployment:
-#
+
 ##### Player Settings
-#
 * Verify that your Player Settings are correct for your device.
 * ##### For example:
     * Company Name = Your Name (E.g. MattSonic)
@@ -102,7 +101,7 @@
 
 
 ## Lighting:
-#
+
 ##### Lights
 
 * There are several spotlights and/or area lights
@@ -123,10 +122,10 @@
 * Test different bakes with a Baked Resolution of between 2-5, then do a test bake at 40, then do a final bake with a resolution of 80
 * You’ll probably want to activate “Soft Shadows” on each light (so the baked lighting produces nice shadows)
 * If you notice lighting artifacts, then switch to uncompressed lightmap. If your app does not perform well any more, you may revert to compressed lightmaps, but you must include in your submission notes what you tried and what happened.
-#
+
 
 ## Globe:
-#
+
 
 ##### Globe Exists
 
@@ -141,7 +140,7 @@
 
 
 ## Appendment:
-#
+
 ##### How long it took to complete the project.
 * Duration: 40 hours (half of the time was related to compatibility issues)
 * I was using a newer version of Unity and needed to downgrade
