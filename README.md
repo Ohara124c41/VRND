@@ -20,8 +20,9 @@
 
 ## Screenshots  
 
-![app screenshot](/Screenshot/screenshot01.png)
-![app screenshot](/Screenshot/screenshot02.png)
+![alt text](https://github.com/Ohara124c41/VRND/blob/master/Screenshot02.png?raw=true)
+![alt text](https://github.com/Ohara124c41/VRND/blob/master/Screenshot01.png?raw=true)
+![alt text](https://github.com/Ohara124c41/VRND/blob/master/APT_MkIV.gif?raw=true)
 
 
 ## Installation:
