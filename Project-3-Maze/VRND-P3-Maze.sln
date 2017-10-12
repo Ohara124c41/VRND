@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRND-P3-Maze", "VRND-P3-Maze.csproj", "{BA3ACEBA-BE1E-B4F2-0ED7-04ACE7AF8B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRND-P3-Maze.Editor", "VRND-P3-Maze.Editor.csproj", "{D8AFED09-75FD-8368-1E73-478536238241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3ACEBA-BE1E-B4F2-0ED7-04ACE7AF8B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3ACEBA-BE1E-B4F2-0ED7-04ACE7AF8B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3ACEBA-BE1E-B4F2-0ED7-04ACE7AF8B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3ACEBA-BE1E-B4F2-0ED7-04ACE7AF8B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AFED09-75FD-8368-1E73-478536238241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AFED09-75FD-8368-1E73-478536238241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AFED09-75FD-8368-1E73-478536238241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AFED09-75FD-8368-1E73-478536238241}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
